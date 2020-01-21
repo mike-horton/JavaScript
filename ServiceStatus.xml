@@ -1,0 +1,639 @@
+<service><responsecode>0</responsecode><timestamp>1/19/2020 10:25:00 PM</timestamp><subway>
+  <line>
+    <name>123</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(253094);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 17 - 20, Fri 11:15 PM to Mon 5 AM&lt;br clear=left&gt;[1] Service between 137 St, Manhattan and 242 St, the Bronx is replaced by [A] [C] trains, M3, M100 and free shuttle buses&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 253094 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[1] trains run between &lt;b&gt;South Ferry&lt;/b&gt; and &lt;b&gt;137 St&lt;/b&gt; in Manhattan.&lt;br&gt;&lt;br&gt;[SB] Buses run along four routes &lt;i&gt;making station stops&lt;/i&gt; on the [1] line:&lt;br&gt;  1. &lt;b&gt;Broadway&lt;/b&gt; between 242 St and 215 St, stopping at the 207 St [A] station.&lt;br&gt;  2. &lt;b&gt;Dyckman St &lt;/b&gt;between [1] and [A] stations &lt;i&gt;late nights&lt;/i&gt; only. Use &lt;b&gt;M100&lt;/b&gt; &lt;i&gt;days/evenings&lt;/i&gt;.&lt;br&gt;  3. &lt;b&gt;St Nicholas Av&lt;/b&gt; between 191 and 168 Sts. Free transfer for &lt;b&gt;M3&lt;/b&gt; service.&lt;br&gt;  4. &lt;b&gt;Broadway&lt;/b&gt; between 168 St and 137 St.&lt;br&gt;&lt;br&gt;Use the [A] [C] trains for service &lt;i&gt;to/from&lt;/i&gt; nearby stations in &lt;b&gt;Washington Heights.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&amp;bull; Transfer between [1] and [A] [C] trains at 59 St-Columbus Circle.&lt;br&gt;&amp;bull; Transfer between [1] trains and [SB] buses at the 137 St [1] station.&lt;br&gt;&amp;bull; Transfer between [A] trains and [SB] buses at the 168 St and 207 St [A] stations.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2530940);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="2530940"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=70%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station  &lt;td&gt;&lt;b&gt;Broadway Shuttle Bus Stop &lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;242 St&lt;td&gt;Broadway at Manhattan College Pkwy&lt;td&gt;&lt;b&gt;Bx9&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;238 St&lt;td&gt;Broadway at 238 St&lt;td&gt;&lt;b&gt;Bx9&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;231 St&lt;td&gt;Broadway at 231 St&lt;td&gt;&lt;b&gt;Bx9&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;225 St&lt;td&gt;Broadway at 225 St&lt;td&gt;&lt;b&gt;Bx7&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;215 St&lt;td&gt;Broadway at 215 St&lt;td&gt;&lt;b&gt;Bx7&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;207 St [ad] | [A]&lt;td&gt;Broadway at 207 St&lt;td&gt;&amp;mdash;&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=70%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Dyckman Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Dyckman St&lt;td&gt;Dyckman St at Broadway [A]&lt;td&gt;&lt;b&gt;M100&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Dyckman St at Nagle Av&lt;td&gt;&lt;b&gt;M100&lt;/b&gt;&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=70%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;St Nicholas Av Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;191 St&lt;td&gt; St Nicholas Av at 190 St&lt;td&gt;&lt;b&gt;M3&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;181 St&lt;td&gt;St Nicholas Av at 181 St&lt;td&gt;&lt;b&gt;M3&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;168 St [ad] | [A] [C]&lt;td&gt;St Nicholas Av at 168 St&lt;td&gt;&lt;b&gt;M3&lt;/b&gt;&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=70%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;td&gt;&lt;b&gt;Broadway Shuttle Bus Stop&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;168 St [ad] | [A] [C]&lt;td&gt;Broadway at 168 St&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;157 St&lt;td&gt;Broadway at 157 St&lt;td&gt;&lt;b&gt;M4&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Broadway at 145 St&lt;td&gt;&lt;b&gt;M4&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;137 St [1]&lt;td&gt;Broadway at 137 St&lt;td&gt;&lt;b&gt;M4&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;[ad] This service change affects one or more ADA stations.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251317);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 17 - 20, Fri 9:30 PM to Mon 5 AM&lt;br clear=left&gt;[4] Service between Bowling Green, Manhattan and Utica Av/New Lots Av, Brooklyn is replaced by [2] and [3] trains&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251317 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[4] trains run between &lt;b&gt;Woodlawn &lt;/b&gt;and &lt;b&gt;Bowling Green&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[3] trains run between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Travel Alternatives:&lt;br&gt;&lt;/b&gt;&lt;/font&gt;For service between &lt;b&gt;Borough Hall&lt;/b&gt; and &lt;b&gt;Franklin Av&lt;/b&gt;, take the [2] or [3].&lt;br&gt;Take the [3]&lt;b&gt; &lt;/b&gt;between &lt;b&gt;Franklin Av&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;.&lt;br&gt; &lt;br&gt;&amp;bull; Transfer between the [4] and [2] [3]&lt;b&gt; &lt;/b&gt;trains at Fulton St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; [5] trains do not run in Brooklyn on weekends or overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251432);&gt;&lt;b&gt;ELECTRICAL IMPROVEMENTS&lt;br clear=left&gt;&lt;/font&gt;Jan 18 - 20, Sat 12:01 AM to Mon 5 AM&lt;br clear=left&gt;&lt;/font&gt;[E] Trains run local in both directions in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251432 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Trains stop at 36 St, Steinway St, 46 St, Northern Blvd, 65 St, Roosevelt Av, Elmhurst Av, Grand Av, Woodhaven Blvd, 63 Dr and 67 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251434);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 17 - 20, Fri 11:45 PM to Mon 5 AM&lt;br clear=left&gt;[E] Trains run via the [F] in both directions between 21 St-Queensbridge [F] station, Queens and W 4 St, Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251434 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;No [E] service at &lt;b&gt;Queens Plaza&lt;/b&gt;, &lt;b&gt;Court Sq-23 St&lt;/b&gt;, &lt;b&gt;Lexington Av/53 St&lt;/b&gt;, &lt;b&gt;5 Av/53 St&lt;/b&gt;, &lt;b&gt;7 Av&lt;/b&gt;, &lt;b&gt;50 St&lt;/b&gt;, &lt;b&gt;42 St/Port Authority&lt;/b&gt;, &lt;b&gt;34 St-Penn Station&lt;/b&gt;, &lt;b&gt;23 St&lt;/b&gt; and &lt;b&gt;14 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;[SB] Free shuttle buses run between &lt;b&gt;Court Sq-23 St &lt;/b&gt;and &lt;b&gt;21 St-Queensbridge&lt;/b&gt;, stopping at Queens Plaza.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Travel Alternatives:&lt;br&gt;&lt;/b&gt;For &lt;b&gt;Queens Plaza&lt;/b&gt;, take the [R] (&lt;i&gt;days/evenings&lt;/i&gt;) or use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10109 target=_blank&gt;&lt;font color=#0000FF&gt;Queensboro Plaza&lt;/font&gt;&lt;/a&gt; [7] [N] station &lt;i&gt;or&lt;/i&gt; [SB]. Transfer at 34 St-Herald Sq [N] [R], Roosevelt Av-74 St [7] [R] or 21 St-Queensbridge [SB].&lt;br&gt;&lt;br&gt;For &lt;b&gt;Court Sq-23 St&lt;/b&gt;, use the [7] at Times Sq-42 St/Port Authority [A] [C] or via transfer &lt;i&gt;to/from&lt;/i&gt; the [E] at 74 St-Roosevelt Av.&lt;br&gt; &lt;br&gt;For &lt;b&gt;Lexington Av/53 St&lt;/b&gt;, use the [4] &lt;i&gt;local&lt;/i&gt;, [6] via transfer &lt;i&gt;to/from&lt;/i&gt; the [7] at Grand Central &lt;i&gt;or&lt;/i&gt; [R] (&lt;i&gt;days/evenings&lt;/i&gt;) at Lexington Av/59 St.&lt;br&gt; &lt;br&gt;For &lt;b&gt;5 Av/53 St&lt;/b&gt;, use nearby [F] stations at &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10196 target=_blank&gt;&lt;font color=#0000FF&gt;47-50 Sts&lt;/font&gt;&lt;/a&gt; or &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10197 target=_blank&gt;&lt;font color=#0000FF&gt;57 St&lt;/font&gt;&lt;/a&gt;.&lt;br&gt;&lt;br&gt;For &lt;b&gt;7 Av&lt;/b&gt;, take the [D] via transfer at 47-50 Sts. &lt;br&gt;&lt;br&gt;For &lt;b&gt;50 St&lt;/b&gt;, &lt;b&gt;42 St&lt;/b&gt;, &lt;b&gt;34 St&lt;/b&gt;, &lt;b&gt;23 St&lt;/b&gt; and &lt;b&gt;14 St&lt;/b&gt;, take the [A] [C]. Transfer at W 4 St or from the [7] or [N] trains at Times Sq-42 St/Port Authority.&lt;br&gt;&lt;br&gt;&lt;/font&gt;[ad] This service change affects one or more ADA stations.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251430);&gt;&lt;b&gt;ELECTRICAL IMPROVEMENTS&lt;br clear=left&gt;Jan 17 - 20, Fri 10 PM to Mon 5 AM&lt;br clear=left&gt;[A] Downtown trains stop at 50 St, 23 St and Spring St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251430 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251431);&gt;&lt;b&gt;ELECTRICAL IMPROVEMENTS&lt;br clear=left&gt;&lt;/font&gt;Jan 18 - 20, Sat 12:01 AM to Mon 5 AM&lt;br clear=left&gt;[F] Trains run local in both directions between 21 St-Queensbridge and 71 Av in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251431 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Trains stop at 36 St, Steinway St, 46 St, Northern Blvd, 65 St, Roosevelt Av, Elmhurst Av, Grand Av, Woodhaven Blvd, 63 Dr and 67 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(250701);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 17 - 20, Fri 9:45 PM to Mon 5 AM&lt;br clear=left&gt;[F] Service between Church Av and Stillwell Av in Brooklyn is replaced by free shuttle buses&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 250701 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[F] trains run between &lt;b&gt;179 St&lt;/b&gt; and &lt;b&gt;Church Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses run between &lt;b&gt;Church Av&lt;/b&gt; and &lt;b&gt;Stillwell Av*&lt;/b&gt;, stopping at Ditmas Av, 18 Av, Avenue I, Bay Pkwy, Avenue N, Avenue P, Kings Hwy, Avenue U, Avenue X, Neptune Av and W 8 St.&lt;br&gt;&lt;br&gt;Transfer between [F] trains and [SB] buses at Church Av.&lt;br&gt;&lt;br&gt;For direct service between Coney Island and Manhattan/Downtown Brooklyn, take the [Q] instead.&lt;br&gt;&lt;br&gt;&lt;i&gt;In Manhattan&lt;/i&gt;, transfer between the [F] and [Q] at 34 St-Herald Sq.&lt;br&gt;&lt;br&gt;&lt;i&gt;In Brooklyn&lt;/i&gt;, transfer between the [Q] and [SB] at Stillwell Av or West 8 St. &lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2507010);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="2507010"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/td&gt;&lt;td&gt;[SB] &lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Church Av [ad] | [F] [G]&lt;td&gt;McDonald Av at Church Av &lt;td&gt;&lt;b&gt;B67&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Ditmas Av&lt;td&gt;McDonald Av at Ditmas Av&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;18 Av&lt;td&gt;McDonald Av at 18 Av&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Avenue I&lt;td&gt;McDonald Av at Avenue I&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Bay Pkwy&lt;td&gt;McDonald Av at Bay Pkwy&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Avenue N&lt;td&gt;McDonald Av at 24 Av (to Stillwell Av)&lt;tr&gt;&lt;td&gt;McDonald Av at Avenue N (to Church Av)&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Avenue P&lt;td&gt;McDonald Av at Avenue P&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Kings Hwy&lt;td&gt;McDonald Av at Kings Hwy&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Avenue U&lt;td&gt;McDonald Av at Avenue U&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Avenue X&lt;td&gt;Shell Rd at Avenue X (to Stillwell Av)&lt;td&gt;&lt;b&gt;B4&lt;/b&gt;&lt;tr&gt;&lt;td&gt;McDonald Av at Avenue X (to Church Av)&lt;td&gt;&amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Neptune Av&lt;td&gt;Shell Rd at Neptune Av (to Stillwell Av)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Neptune Av at W 6 St (to Church Av)&lt;td&gt;&lt;b&gt;B68&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;W 8 St [Q]&lt;td&gt;Surf Av at W 8 St&lt;td&gt;&lt;b&gt;B36&lt;/b&gt;&lt;br&gt;&lt;tr&gt;&lt;td&gt;Stillwell Av [ad] | [D] [Q]&lt;td&gt;Surf Av at Stillwell Av&lt;td&gt;&lt;b&gt;B36&lt;/b&gt;&lt;/table&gt;&lt;/div&gt; &lt;br&gt;&lt;br&gt;&lt;i&gt;*From 8 AM to 10 PM Saturday and Sunday, some buses will only run between Church Av and Kings Hwy.&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(240692);&gt;&lt;b&gt;TUNNEL REHABILITATION&lt;br clear=left&gt;Every night from 10 PM to 5 AM and all day Saturday and Sunday&lt;br clear=left&gt;[L] 3 Av and 1 Av in Manhattan - board/exit all trains at the 8 Av-bound platform&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 240692 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251447);&gt;&lt;b&gt;STATION &amp; ACCESSIBILITY IMPROVEMENTS&lt;br clear=left&gt;Jan 17 - 20, Fri 11:15 PM to Mon 5 AM&lt;br clear=left&gt;[L] Service between Broadway Junction and Lorimer St in Brooklyn is replaced by free shuttle buses&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251447 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[L]&lt;b&gt; trains run in two sections:&lt;br&gt;&lt;/b&gt;  1. Between&lt;b&gt; Rockaway Pkwy&lt;/b&gt; and&lt;b&gt; Broadway Junction (&lt;/b&gt;[J]&lt;b&gt; platform) &lt;/b&gt;in Brooklyn, &lt;i&gt;every 10 minutes days and evenings&lt;/i&gt;.&lt;br&gt;  2. Between &lt;b&gt;Lorimer St&lt;/b&gt;, Brooklyn and&lt;b&gt; 8 Av&lt;/b&gt;, Manhattan, &lt;i&gt;every 20 minutes&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;[SB] Buses run in two sections &lt;i&gt;making all&lt;/i&gt; [L] stops:&lt;br&gt;  1. Between Broadway Junction and Myrtle-Wyckoff Avs.&lt;br&gt;  2. Between Myrtle-Wyckoff Avs and Lorimer St.&lt;br&gt;&lt;br&gt;[M] trains run &lt;b&gt;between Brooklyn and Manhattan&lt;/b&gt;, connecting with the [L] at&lt;b&gt; 6 Av (14 St)&lt;/b&gt;, Manhattan and with [SB] buses at&lt;b&gt; Myrtle-Wyckoff Avs&lt;/b&gt;, Brooklyn during the following hours:&lt;br&gt;Fri 10 PM to Sat 1:30 AM  &amp;bull;  Sat 6 AM to Sun 1:30 AM  &amp;bull;  Sun 6 AM to Mon 1:30 AM&lt;br&gt;&lt;br&gt;&lt;b&gt;In Manhattan&lt;/b&gt;, use the &lt;b&gt;M14A/D SBS&lt;/b&gt; buses serving all [L] stops along 14 St; the &lt;b&gt;M14A SBS&lt;/b&gt; connects with the [F] [J] [M] at Delancey St-Essex St.&lt;br&gt;&lt;br&gt;&amp;bull; For service between &lt;b&gt;Brooklyn &lt;/b&gt;and &lt;b&gt;Manhattan&lt;/b&gt;, consider the [A] [C] or [J] via transfer at &lt;b&gt;Broadway Junction &lt;/b&gt;[L] [SB], or the [M] at&lt;b&gt; Myrtle-Wyckoff Avs &lt;/b&gt;[SB]. &lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2514470);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="2514470"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;br&gt;&lt;/b&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broadway Junction &lt;br&gt;[A] [C] [J] [L] &lt;td&gt;Fulton St at Van Sinderen Av&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Bushwick Av-Aberdeen St&lt;td&gt;Bushwick Av at Aberdeen St (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt;Bushwick Av at DeSales Pl (to Broadway Junction)&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Wilson Av&lt;td&gt;Decatur St at Wilson Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt;Cooper St at Wilson Av (to Broadway Junction)&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Halsey St&lt;td&gt;Cypress Av at George St (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt;Wyckoff Av at Weirfield St (to Broadway Junction)&lt;br&gt;&lt;tr&gt;&lt;td&gt;Myrtle-Wyckoff Avs [ad] | [M] &lt;td&gt;Myrtle Av at Wyckoff Av&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;                              &lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Myrtle-Wyckoff Avs [ad] | [M] &lt;td&gt;Wyckoff Av at Gates Av&lt;br&gt;&lt;tr&gt;&lt;td&gt;DeKalb Av&lt;td&gt;Wyckoff Av at DeKalb Av&lt;br&gt;&lt;tr&gt;&lt;td&gt;Jefferson St&lt;td&gt;Wyckoff Av at Starr St&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Morgan Av&lt;td&gt;Harrison Pl at Morgan Av (to Lorimer St)&lt;tr&gt;&lt;td&gt;Morgan Av at Harrison Pl (to Myrtle-Wyckoff Avs)&lt;br&gt;&lt;tr&gt;&lt;td&gt;Montrose Av&lt;td&gt;Bushwick Av at Montrose Av&lt;br&gt;&lt;tr&gt;&lt;td&gt;Grand St&lt;td&gt;Bushwick Av at Grand St&lt;br&gt;&lt;tr&gt;&lt;td&gt;Graham Av&lt;td&gt;Metropolitan Av at Graham Av&lt;br&gt;&lt;tr&gt;&lt;td&gt;Lorimer St [L]&lt;td&gt;Metropolitan Av at Union Av&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;[ad] This service change affects one or more ADA stations.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251453);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 18 - 19, Saturday &amp; Sunday&lt;br clear=left&gt;[R] Downtown trains skip 49 St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251453 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to&lt;/i&gt; this station, take the [R] to Times Sq-42 St and transfer to an uptown [N] or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [N] or [R] to 57 St-7 Av and transfer to a downtown [R].&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder: &lt;/b&gt;Late night [R] service runs between Whitehall St, Manhattan and 95 St, Brooklyn.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251451);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Weekend Nights, Jan 17 - 20, Fri 11:30 PM to Mon 5 AM&lt;br clear=left&gt;[Q] Downtown trains skip 49 St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251451 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;this station, take the [Q] to Times Sq-42 St and transfer to an uptown [N] or [Q] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;this station, take the [N] or [Q] to 57 St-7 Av and transfer to a downtown [Q].&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; Express service runs as scheduled in Manhattan, &lt;i&gt;days and evenings&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(251448);&gt;&lt;b&gt;TRACK MAINTENANCE&lt;br clear=left&gt;Jan 17 - 20, Fri 9:45 PM to Mon 5 AM&lt;br clear=left&gt;[N] Downtown trains skip 49 St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 251448 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;this station, take the [N] to Times Sq-42 St and transfer to an uptown [N] or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;this station, take the [N] or [R] to 57 St-7 Av and transfer to a downtown [N].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B92</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(237914);&gt;&lt;b&gt;In effect&lt;br clear=left&gt;B38/B38 LTD bus stop adjustments&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 237914 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;These changes are due to the introduction of &lt;a href=http://www.mta.info/press-release/nyc-transit/mta-new-york-city-transit-add-180-new-state-art-articulated-buses-increase target=_blank&gt;&lt;font color=#000FF&gt;articulated&lt;/font&gt;&lt;/a&gt; buses on this route.&lt;br&gt;&lt;br&gt;&lt;b&gt;Eastbound stops discontinued:&lt;br&gt;&lt;/b&gt;&amp;bull; Seneca Av at Harman St&lt;br&gt;&amp;bull; Seneca Av at Madison St&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound stops discontinued:&lt;br&gt;&lt;/b&gt;&amp;bull; Seneca Av at Putnam Av&lt;br&gt;&amp;bull; Seneca Av at Palmetto St&lt;br&gt;&amp;bull; DeKalb Av at Ashland Pl&lt;br&gt;&lt;br&gt;&lt;b&gt;Stops discontinued in both directions:&lt;br&gt;&lt;/b&gt;&amp;bull; DeKalb Av at Bushwick Av&lt;br&gt;&amp;bull; DeKalb Av at Cypress Av &lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; B38 LTD buses do not operate Sundays or overnight&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(241753);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;B26 stop on Cadman Plaza West at Tillary St has been temporarily relocated due to road work&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 241753 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Please use the nearby stop &lt;b&gt;on Tillary St &lt;/b&gt;between Adams St and Jay St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(243019);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Northbound Bx39 buses are detoured between Soundview Av/White Plains Rd and Lacombe Av due to road work&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 243019 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Buses run via &lt;b&gt;Soundview Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;Missed stops:&lt;br&gt;&lt;/b&gt;&amp;bull; White Plains Rd at Obrien Av&lt;br&gt;&amp;bull; White Plains Rd at Patterson Av&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(239594);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Bx33 buses are bypassing the stops on E 138 St at Lincoln Av/3 Av due to construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 239594 class="plannedWorkDetail" &gt;&lt;br&gt;Discontinued stops:&lt;br&gt;&lt;br&gt;Eastbound: &lt;/b&gt;E 138 St at Lincoln Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound: &lt;/b&gt;E 138 St at Lincoln Av (nearest 3 Av).&lt;br&gt;&lt;br&gt;Please use the nearby stop &lt;b&gt;on E 138 St &lt;/b&gt;between 3 Av and Rider Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(239637);&gt;&lt;b&gt;In effect&lt;br clear=left&gt;Bx27 bus stop adjustments&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 239637 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Theses changes are due to the introduction of &lt;a href=http://www.mta.info/press-release/nyc-transit/mta-new-york-city-transit-add-180-new-state-art-articulated-buses-increase target=_blank&gt;&lt;font color=#000FF&gt;articulated&lt;/font&gt;&lt;/a&gt; buses on this route.&lt;br&gt;&lt;br&gt;&lt;b&gt;Discontinued bus stops:&lt;br&gt;&lt;/b&gt;West Farms Rd at Westchester Av (both directions)&lt;br&gt;&lt;br&gt;&lt;b&gt;New bus stops:&lt;br&gt;&lt;/b&gt;Westchester Av at Hoe Av (northbound)&lt;br&gt;&lt;br&gt;Hoe Av at Westchester Av (southbound)&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(242633);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;East/Northbound Bx16, Bx34 and BxM4 stops on E Gun Hill Rd at Bainbridge Av to Jerome Av are closed due to construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 242633 class="plannedWorkDetail" &gt;&lt;br&gt;Discontinued stops:&lt;br&gt;&lt;/b&gt;Bainbridge Av at E 212 St&lt;br&gt;Bainbridge Av at Jerome Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Please use nearby temporary stops on:&lt;br&gt;&lt;/b&gt;Jerome Av at E 212 St&lt;br&gt;Jerome Av at Bainbridge Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: These bus routes do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(242636);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Northbound Bx10 stop on E Gun Hill Rd at Bainbridge Av is closed due to construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 242636 class="plannedWorkDetail" &gt;&lt;br&gt;Discontinued stop:&lt;br&gt;&lt;/b&gt;E Gun Hill Rd at Bainbridge Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Please use nearby temporary stops on:&lt;br&gt;&lt;/b&gt;Bainbridge Av at E 210 St&lt;br&gt;E Gun Hill Rd at De Kalb Av&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(242633);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;East/Northbound Bx16, Bx34 and BxM4 stops on E Gun Hill Rd at Bainbridge Av to Jerome Av are closed due to construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 242633 class="plannedWorkDetail" &gt;&lt;br&gt;Discontinued stops:&lt;br&gt;&lt;/b&gt;Bainbridge Av at E 212 St&lt;br&gt;Bainbridge Av at Jerome Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Please use nearby temporary stops on:&lt;br&gt;&lt;/b&gt;Jerome Av at E 212 St&lt;br&gt;Jerome Av at Bainbridge Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: These bus routes do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;b&gt;M10&lt;/b&gt; buses are detoured in both directions because of a water main break on Central Park West between 102 St and 103 St.Â &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Detour is as follows:Â &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Southbound:&lt;/b&gt; Via Central Park West, right onto 106 St, left onto Columbus Av, left onto 96 St, right onto Central Park West, and then regular route.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Northbound:&lt;/b&gt; Via Central Park West, left onto 96 St, right onto Amsterdam Av, right onto 106 St, left onto Central Park West, and then regular route.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buses will make all corresponding stops along the detour route.&lt;/div&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(218367);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Westbound M31 and M57&lt;/b&gt; &lt;b&gt;stop on W 57 St at 6 Av has been relocated due to construction &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 218367 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Please follow directional signage to the nearby temporary&lt;b&gt; drop-off only &lt;/b&gt;stop &lt;b&gt;on W 57 St &lt;/b&gt;near 6 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(210727);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Westbound M22 buses are detoured from Worth St at Centre St to Lafayette St due to Con Edison work&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 210727 class="plannedWorkDetail" &gt;&lt;br&gt;Missed stop:&lt;br&gt;&lt;/b&gt;Worth St at Centre St&lt;br&gt;&lt;br&gt;&lt;b&gt;Please use nearby stops on:&lt;br&gt;&lt;/b&gt;Worth St at Mott St&lt;br&gt;Centre St at Chambers St&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(234285);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Northbound M101/M101 LTD, M102 and M103 stop on 3 Av between 33 St and 34 St is temporarily closed because of construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 234285 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Please use nearby stops &lt;b&gt;on 3 Av &lt;/b&gt;at 31 St or 37 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:13PM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(248103);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Q47 buses are detoured between 69 St at Garfield Av and Calamus Av at 70 St due to construction &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 248103 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2481030);&gt;Show Detour&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="2481030"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Calamus Av&lt;br&gt;Right on 70 St&lt;br&gt;Left on Garfield Av&lt;br&gt;Into 50 Av&lt;br&gt;Right on 69 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 69 St&lt;br&gt;Right on Garfield Av&lt;br&gt;Left on 68 St&lt;br&gt;Left on Maurice Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(253850);&gt;&lt;b&gt;Jan 17 - Feb 10, Weekends from 10 PM Fri to 5 AM Mon&lt;br clear=left&gt;East/Northbound Q24, Q30 and Q31 buses are detoured from Archer Av at Sutphin Blvd to 150 St due to a crane operation&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 253850 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Buses run via &lt;b&gt;Jamaica Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2538500);&gt;Show Detour&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="2538500"; style="display:none;"&gt;Via Archer Av&lt;br&gt;Left on Sutphin Blvd&lt;br&gt;Right on Jamaica Av&lt;br&gt;Right on 150 St&lt;br&gt;Left on Archer Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(252709);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;No Q22 and QM17 service on Beach 21 St between Cornaga Av and Mott Av due to NYC DDC construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 252709 class="plannedWorkDetail" &gt;&lt;br&gt;Missed stops:&lt;br&gt;&lt;/b&gt;&amp;bull; Cornaga Av at Beach 19 St&lt;br&gt;&amp;bull; Beach 21 St Terminal at Beach 21 St &lt;br&gt;&amp;bull; Beach 21 St at Mott Av&lt;br&gt;&lt;br&gt;Please use the nearby temporary stop &lt;b&gt;on Beach 20 St &lt;/b&gt;at Mott Av.&lt;br&gt;&lt;br&gt;Eastbound Q22 customers can also use the nearby stop &lt;b&gt;on Beach 19 St &lt;/b&gt;at Everdell Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(253844);&gt;&lt;b&gt;Jan 17 - Feb 10, Weekends from 10 PM Fri to 5 AM Mon&lt;br clear&gt;Q20A/Q20B and Q44 SBS buses are detoured from Archer Av between Sutphin Blvd and Merrick Blvd due to a crane operation&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 253844 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Buses run via &lt;b&gt;Jamaica Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(2538440);&gt;Show Detour&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="2538440"; style="display:none;"&gt;&lt;b&gt;Northbound &lt;br&gt;&lt;/b&gt;Via Merrick Blvd&lt;br&gt;Right on Archer Av&lt;br&gt;Right on 150 St&lt;br&gt;Left on Jamaica Av&lt;br&gt;Right on Sutphin Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Sutphin Blvd&lt;br&gt;Left on Jamaica Av&lt;br&gt;Right on Merrick Blvd then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(252709);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;No Q22 and QM17 service on Beach 21 St between Cornaga Av and Mott Av due to NYC DDC construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 252709 class="plannedWorkDetail" &gt;&lt;br&gt;Missed stops:&lt;br&gt;&lt;/b&gt;&amp;bull; Cornaga Av at Beach 19 St&lt;br&gt;&amp;bull; Beach 21 St Terminal at Beach 21 St &lt;br&gt;&amp;bull; Beach 21 St at Mott Av&lt;br&gt;&lt;br&gt;Please use the nearby temporary stop &lt;b&gt;on Beach 20 St &lt;/b&gt;at Mott Av.&lt;br&gt;&lt;br&gt;Eastbound Q22 customers can also use the nearby stop &lt;b&gt;on Beach 19 St &lt;/b&gt;at Everdell Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIM1 - SIM35</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>X27 - X68</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2020&amp;nbsp;10:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(228966);&gt;&lt;b&gt;Until further notice&lt;br clear=left&gt;Northbound X28 and X38 buses are detoured from Surf Av at W 22 St to Neptune Av at W 20 St due to construction&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 228966 class="plannedWorkDetail" &gt;&lt;br&gt;Missed stop:&lt;br&gt;&lt;/b&gt;&amp;bull; &lt;/font&gt;Surf Av at W 21 St&lt;br&gt;&lt;br&gt;Please use the nearby temporary stop &lt;b&gt;on Surf Av &lt;/b&gt;at W 22 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; X38 buses do not operate weekends.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2020</Date>
+    <Time>10:22PM</Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Verrazzano-Narrows</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Belmont</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</MetroNorth></service>

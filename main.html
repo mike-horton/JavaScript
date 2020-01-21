@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>MTA Transit Tracker</title>
+</head>
+<body>
+    <h2>MTA Transit Tracker Status</h2><br />
+    Choose a service type:
+    <select name="serviceType" id="serviceType">
+        <option value="bus">Bus</option>
+        <option value="subway">Subway</option>
+        <option value="BT">BT</option>
+        <option value="LIRR">LIRR</option>
+        <option value="MetroNorth">Metro North</option>
+    </select>
+    <button type="button" onclick="loadData()">
+       Check Service Status
+    </button>
+    <div id="demo">
+      something
+    </div>
+    <script type="text/javascript">
+        function loadData() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    theFunction(this);
+                }
+            };
+            xmlhttp.open("GET", "ServiceStatus.xml", true);
+            xmlhttp.send();
+        }
+        function theFunction(xml) {
+            var x;
+            var i = 0;
+            var xmlDoc = xml.responseXML;
+            var str = "";
+            var txt = "<table><thead><tr><th>Line Name</th><th>Status</th></tr></thead><tbody>";
+            var serviceType = document.getElementById("serviceType");
+            x = xmlDoc.getElementsByTagName("line");
+            for (i = 0; i < x.length; i++) {
+              if(x[i].parentNode.nodeName == serviceType.value){
+                txt += "<tr><td>" + x[i].childNodes[1].textContent + "</td>";
+                txt += "<td>" + x[i].childNodes[3].textContent + "</td></tr>";
+              }
+            }
+            txt += "</tbody></table>";
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+</html>
